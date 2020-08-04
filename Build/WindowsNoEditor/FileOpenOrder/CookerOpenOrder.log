@@ -1,0 +1,977 @@
+"../../../Engine/Content/EngineMeshes/Humanoid.uasset" 0
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.uasset" 1
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/AnimStarterPack/Aim_Space_Hip.uasset" 2
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/AnimStarterPack/Aim_Space_Ironsights.uasset" 3
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/AnimStarterPack/Crouch_to_Stand_Rifle_Hip.uasset" 4
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/AnimStarterPack/Crouch_to_Stand_Rifle_Ironsights.uasset" 5
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/AnimStarterPack/Death_2.uasset" 6
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/AnimStarterPack/Death_3.uasset" 7
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/AnimStarterPack/Death_Ironsights_1.uasset" 8
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/AnimStarterPack/Death_Ironsights_2.uasset" 9
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/AnimStarterPack/Equip_Rifle_Standing.uasset" 10
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/AnimStarterPack/Fire_Rifle_Hip.uasset" 11
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/AnimStarterPack/Fire_Shotgun_Hip.uasset" 12
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/AnimStarterPack/Fire_Shotgun_Ironsights.uasset" 13
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/AnimStarterPack/Hit_React_4.uasset" 14
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/AnimStarterPack/Idle_Pistol.uasset" 15
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/AnimStarterPack/Idle_Rifle_Ironsights.uasset" 16
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/AnimStarterPack/Jump_From_Stand_Ironsights.uasset" 17
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/AnimStarterPack/Prone_Death_2.uasset" 18
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/AnimStarterPack/Prone_Fire_1.uasset" 19
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/AnimStarterPack/Prone_Fire_2.uasset" 20
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/AnimStarterPack/Prone_Reload_Rifle.uasset" 21
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/AnimStarterPack/Prone_Reload_Shotgun.uasset" 22
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/AnimStarterPack/Reload_Pistol.uasset" 23
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/AnimStarterPack/Reload_Rifle_Ironsights.uasset" 24
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/AnimStarterPack/Reload_Shotgun_Hip.uasset" 25
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/AnimStarterPack/Reload_Shotgun_Ironsights.uasset" 26
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/AnimStarterPack/Sprint_Fwd_Rifle.uasset" 27
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/AnimStarterPack/Stand_to_Crouch_Rifle_Hip.uasset" 28
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/AnimStarterPack/Stand_to_Crouch_Rifle_Ironsights.uasset" 29
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Blueprint/KeysDoors/Key_Mat.uasset" 30
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Blueprint/KeysDoors/Blue_Key.uasset" 31
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Blueprint/Keys/Blue_Key.uasset" 32
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Blueprint/Blue_Key.uasset" 33
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/Blueprint/Blue_Key.uasset" 34
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/AnimStarterPack/Crouch_Idle_Rifle_Hip.uasset" 35
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/AnimStarterPack/Idle_Rifle_Hip.uasset" 36
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/AnimStarterPack/Jump_From_Jog.uasset" 37
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/AnimStarterPack/Jump_From_Stand.uasset" 38
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/AnimStarterPack/Prone_Idle.uasset" 39
+"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 40
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/AnimStarterPack/Prone_To_Stand.uasset" 41
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/AnimStarterPack/Stand_To_Prone.uasset" 42
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Ironsights.uasset" 43
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Hip.uasset" 44
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Ironsights.uasset" 45
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/AnimStarterPack/Crouch_Walk_Lt_Rifle_Ironsights.uasset" 46
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/AnimStarterPack/Crouch_Walk_Rt_Rifle_Ironsights.uasset" 47
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/BlendSpace/Crouch_BS.uasset" 48
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/AnimStarterPack/Jog_Bwd_Rifle.uasset" 49
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/AnimStarterPack/Jog_Fwd_Rifle.uasset" 50
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/AnimStarterPack/Jog_Lt_Rifle.uasset" 51
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/AnimStarterPack/Jog_Rt_Rifle.uasset" 52
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/BlendSpace/Jog_BS.uasset" 53
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/AnimStarterPack/Walk_Bwd_Rifle_Ironsights.uasset" 54
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/AnimStarterPack/Walk_Fwd_Rifle_Ironsights.uasset" 55
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/AnimStarterPack/Walk_Lt_Rifle_Ironsights.uasset" 56
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/AnimStarterPack/Walk_Rt_Rifle_Ironsights.uasset" 57
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/BlendSpace/Walk_BS.uasset" 58
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Animation/MyAnimation.uasset" 59
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 60
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 61
+"../../../Engine/Content/VREditor/Devices/Vive/T_VivePreController_EM.uasset" 62
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreController_MasksA.uasset" 63
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreController_MasksB.uasset" 64
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerDiffuse.uasset" 65
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerSpec.uasset" 66
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 67
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerMaterial.uasset" 68
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 69
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 70
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 71
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 72
+"../../../Engine/Content/EngineMeshes/Cube.uasset" 73
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Blueprint/Chips/Chips.uasset" 74
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Blueprint/interact_i.uasset" 75
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Blueprint/KeysDoors/KeyType.uasset" 76
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Blueprint/myGameInstance.uasset" 77
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Materials/MainChar/Ch44_1002_Diffuse.uasset" 78
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Materials/MainChar/Ch44_1002_Emissive.uasset" 79
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Materials/MainChar/Ch44_1002_Glossiness.uasset" 80
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Materials/MainChar/Ch44_1002_Normal.uasset" 81
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Materials/MainChar/Ch44_1002_Specular.uasset" 82
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Materials/MainChar/Ch44_Body.uasset" 83
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Materials/MainChar/Ch44_1001_Diffuse.uasset" 84
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Materials/MainChar/Ch44_1001_Emissive.uasset" 85
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Materials/MainChar/Ch44_1001_Glossiness.uasset" 86
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Materials/MainChar/Ch44_1001_Normal.uasset" 87
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Materials/MainChar/Ch44_1001_Specular.uasset" 88
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Materials/MainChar/Ch44_body1.uasset" 89
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 90
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_AO.uasset" 91
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 92
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 93
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 94
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 95
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 96
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 97
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_LOGO_CARD.uasset" 98
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 99
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 100
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 101
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 102
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin__normals.uasset" 103
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin_MAT_MASKA.uasset" 104
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin_occlusion_Mobile.uasset" 105
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/AnimStarterPack/UE4_Mannequin/Materials/M_UE4Man_Body.uasset" 106
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4Man_Logo_N.uasset" 107
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/AnimStarterPack/UE4_Mannequin/Materials/M_UE4Man_ChestLogo.uasset" 108
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin_PhysicsAsset.uasset" 109
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.uasset" 110
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Audio/myBGSound.uasset" 111
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Audio/myMasterSound.uasset" 112
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Audio/myFXSound.uasset" 113
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Audio/deathSound.uasset" 114
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Widgets/Dialogue_Wid.uasset" 115
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/Movies/Dead.uasset" 116
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 117
+"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 118
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 119
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/Movies/DeadM.uasset" 120
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/Movies/DeadM_Video.uasset" 121
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Audio/ButtonSound.uasset" 122
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Widgets/DiedW.uasset" 123
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Blueprint/Characters/MyCharacter.uasset" 124
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Texturing/TwoSidedTexturing.uasset" 125
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 126
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Textures/T_ky_maskRGB3.uasset" 127
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Materials/Mfunction/MF_ky_AddHilight.uasset" 128
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 129
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Materials/Mfunction/MF_ky_MaskToTopUnder.uasset" 130
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Textures/T_ky_noise5.uasset" 131
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Materials/Mfunction/MF_ky_TexController.uasset" 132
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Materials/Mfunction/MF_ky_TexController_primitive.uasset" 133
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Textures/T_ky_noise17.uasset" 134
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Materials/M_ky_storm01.uasset" 135
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 136
+"../../../Engine/Content/BasicShapes/Cube.uasset" 137
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Audio/victoryAudio.uasset" 138
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Blueprint/KeysDoors/EndGoal.uasset" 139
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Blueprint/EndGoal.uasset" 140
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/Blueprint/EndGoal.uasset" 141
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Blueprint/KeysDoors/GreenKey.uasset" 142
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Blueprint/Keys/GreenKey.uasset" 143
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Blueprint/GreenKey.uasset" 144
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/Blueprint/GreenKey.uasset" 145
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Blueprint/KeysDoors/GoldKey.uasset" 146
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Blueprint/KeysDoors/Red_Key.uasset" 147
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Blueprint/KeysDoors/Key.uasset" 148
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Blueprint/Keys/Key.uasset" 149
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Blueprint/Key.uasset" 150
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/Blueprint/Key.uasset" 151
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Audio/KeyPickSound.uasset" 152
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Widgets/InspectionD.uasset" 153
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Blueprint/KeysDoors/keyPickupD.uasset" 154
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Blueprint/Keys/keyPickupD.uasset" 155
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Blueprint/keyPickupD.uasset" 156
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Blueprint/KeyD.uasset" 157
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/Blueprint/KeyD.uasset" 158
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Audio/DoorSound.uasset" 159
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Materials/M_Glass.uasset" 160
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_Door_M.uasset" 161
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_Door_N.uasset" 162
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Props/Materials/M_Door.uasset" 163
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Props/SM_Door.uasset" 164
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Blueprint/KeysDoors/Doors.uasset" 165
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Blueprint/Doors.uasset" 166
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/Blueprint/Doors.uasset" 167
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/Blueprint/LevelTransition.uasset" 168
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Blueprint/MyGame.uasset" 169
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/Blueprint/MyGame.uasset" 170
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/AnimStarterPack/Prone_Death_1.uasset" 171
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Materials/MI_ky_storm01_fire.uasset" 172
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Audio/Fire01.uasset" 173
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/ComplexMotion/Motion_4WayChaos.uasset" 174
+"../../../Engine/Content/Engine_MI_Shaders/T_Base_Tile_Normal.uasset" 175
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/ComplexMotion/Motion_4WayChaos_Normal.uasset" 176
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 177
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/WaterPlane/Lake/Textures/T_SmallWaves_N.uasset" 178
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/WaterPlane/Ocean/Materials/OceanWater_SS.uasset" 179
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/WaterPlane/Ocean/Textures/T_LargeWaves_H.uasset" 180
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/WaterPlane/Ocean/Textures/T_LargeWaves_N.uasset" 181
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/WaterPlane/Ocean/Textures/T_Seafoam_01.uasset" 182
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/WaterPlane/Ocean/Materials/M_OceanWater_1.uasset" 183
+"../../../Engine/Content/MapTemplates/Sky/Desert_Outer_HDR.uasset" 184
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/WaterPlane/Ocean/Materials/M_OceanWater_1_Inst.uasset" 185
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/WaterPlane/Meshes/SM_OceanWater.uasset" 186
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Blueprint/Fire.uasset" 187
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/Blueprint/Fire.uasset" 188
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/Blueprint/WaterOnBridge.uasset" 189
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_GreenOnly.uasset" 190
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 191
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 192
+"../../../Engine/Content/VREditor/TransformGizmo/TranslateArrowHandle.uasset" 193
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Blueprint/Arrow.uasset" 194
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Arrow.uasset" 195
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Audio/LoadinSound.uasset" 196
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/LoadinSound.uasset" 197
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Audio/Welcome.uasset" 198
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Welcome.uasset" 199
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Audio/Welcome_II.uasset" 200
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Welcome_II.uasset" 201
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Animation/TestAnimation.uasset" 202
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Audio/ChipsPickupSound.uasset" 203
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Blueprint/Chips/chipPickupD.uasset" 204
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Blueprint/chipPickupD.uasset" 205
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Blueprint/Chips.uasset" 206
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Animation/MonsterAnimation.uasset" 207
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/AnimStarterPack/Death_1.uasset" 208
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Materials/Monster/pumpkinHulk_diffuse.uasset" 209
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Materials/Monster/pumpkinHulk_normal.uasset" 210
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Materials/Monster/PumpkinHulk_Material.uasset" 211
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Audio/XGiveToYa.uasset" 212
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Audio/MonsterAudio.uasset" 213
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Blueprint/Characters/Monster.uasset" 214
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Materials/Monster/world_war_zombie_diffuse.uasset" 215
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Materials/Monster/world_war_zombie_normal.uasset" 216
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Materials/Monster/world_war_zombie_specular.uasset" 217
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Materials/Monster/WorldWar_zombie_material.uasset" 218
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Blueprint/Characters/FasterMonster.uasset" 219
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Blueprint/FasterMonster.uasset" 220
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Blueprint/Keys/GoldKey.uasset" 221
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Blueprint/GoldKey.uasset" 222
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Audio/Halo.uasset" 223
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Blueprint/Halo.uasset" 224
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Blueprint/Monster.uasset" 225
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Blueprint/MyCharacter.uasset" 226
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Blueprint/Keys/Red_Key.uasset" 227
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Blueprint/Red_Key.uasset" 228
+"../../../Engine/Content/EngineFonts/Faces/DroidSansMono.uasset" 229
+"../../../Engine/Content/EngineFonts/DroidSansMono.uasset" 230
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Audio/mySoundMix.uasset" 231
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Audio/slider1.uasset" 232
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Audio/slider2.uasset" 233
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Widgets/pauseUI.uasset" 234
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Widgets/setting.uasset" 235
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Widgets/mainMenu.uasset" 236
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Dialogue/mainMenu.uasset" 237
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Widgets/MapUI.uasset" 238
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Dialogue/MapUI.uasset" 239
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Dialogue/pauseUI.uasset" 240
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Widgets/timerWidget.uasset" 241
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Widgets/timerWidget_C.uasset" 242
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Blueprints/BP_ky_explosion.uasset" 243
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Blueprints/BP_ky_hit2.uasset" 244
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 245
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential.uasset" 246
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Materials/Mfunction/MF_ky_VectorToRadialValue.uasset" 247
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Textures/T_ky_decoLines.uasset" 248
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Textures/T_ky_decoLinesB.uasset" 249
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Materials/M_ky_polar.uasset" 250
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Materials/MI_ky_polarG_nonD.uasset" 251
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Textures/T_ky_bg.uasset" 252
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Materials/M_ky_subUV01.uasset" 253
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Textures/T_ky_shockwave12_4x4.uasset" 254
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Materials/MI_ky_shockwave12_4x4.uasset" 255
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Particles/P_ky_hit2.uasset" 256
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Materials/M_Basic_Floor.uasset" 257
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Architecture/Floor_400x400.uasset" 258
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Materials/M_AssetPlatform.uasset" 259
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 260
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Materials/M_Basic_Wall.uasset" 261
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Architecture/Wall_400x400.uasset" 262
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Architecture/Wall_500x500.uasset" 263
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 264
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Audio/Collapse01.uasset" 265
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Audio/Collapse02.uasset" 266
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Audio/Collapse_Cue.uasset" 267
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Audio/Explosion02.uasset" 268
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Audio/Light01.uasset" 269
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Audio/Light01_Cue.uasset" 270
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Audio/Light02.uasset" 271
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Audio/Light02_Cue.uasset" 272
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Audio/Starter_Birds01.uasset" 273
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Audio/Starter_Wind05.uasset" 274
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Audio/Starter_Wind06.uasset" 275
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 276
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Audio/Starter_Music01.uasset" 277
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 278
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 279
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Audio/Explosion_Cue.uasset" 280
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_Burst_M.uasset" 281
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Particles/Materials/M_Burst.uasset" 282
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 283
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 284
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 285
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 286
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 287
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 288
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 289
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 290
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Particles/P_Explosion.uasset" 291
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 292
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Audio/Fire01_Cue.uasset" 293
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 294
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 295
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 296
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_Water_N.uasset" 297
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 298
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 299
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Particles/P_Fire.uasset" 300
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 301
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Audio/Smoke01.uasset" 302
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Audio/Smoke01_Cue.uasset" 303
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Particles/P_Smoke.uasset" 304
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 305
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Audio/Fire_Sparks01.uasset" 306
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 307
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_Spark_Core.uasset" 308
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Particles/Materials/M_Spark.uasset" 309
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Particles/P_Sparks.uasset" 310
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 311
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Audio/Steam01.uasset" 312
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Audio/Steam01_Cue.uasset" 313
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Particles/P_Steam_Lit.uasset" 314
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 315
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_Lamp_M.uasset" 316
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_Lamp_N.uasset" 317
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Props/Materials/M_Lamp.uasset" 318
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 319
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 320
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 321
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 322
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 323
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 324
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 325
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 326
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 327
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 328
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 329
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 330
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 331
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 332
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 333
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 334
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_MacroVariation.uasset" 335
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 336
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 337
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 338
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 339
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 340
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 341
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 342
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 343
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 344
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 345
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 346
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 347
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 348
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 349
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 350
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 351
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 352
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 353
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 354
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 355
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 356
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 357
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 358
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 359
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_Gradinet_01.uasset" 360
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 361
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 362
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 363
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 364
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 365
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 366
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 367
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 368
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 369
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 370
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 371
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 372
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 373
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 374
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 375
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 376
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 377
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 378
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 379
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 380
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 381
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 382
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 383
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 384
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Materials/M_Ground_Grass.uasset" 385
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 386
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 387
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 388
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 389
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 390
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Materials/M_Ground_Moss.uasset" 391
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 392
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 393
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 394
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 395
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 396
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 397
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Materials/M_Metal_Copper.uasset" 398
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 399
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Materials/M_Metal_Rust.uasset" 400
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 401
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 402
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Materials/M_Metal_Steel.uasset" 403
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 404
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 405
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 406
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 407
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 408
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 409
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 410
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 411
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 412
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Materials/M_Rock_Slate.uasset" 413
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 414
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 415
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 416
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 417
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 418
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 419
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 420
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 421
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 422
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 423
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 424
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Materials/M_Tech_Panel.uasset" 425
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Materials/M_Water_Lake.uasset" 426
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_Water_M.uasset" 427
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Materials/M_Water_Ocean.uasset" 428
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 429
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 430
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 431
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 432
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 433
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 434
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 435
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 436
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Materials/M_Wood_Oak.uasset" 437
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 438
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 439
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Materials/M_Wood_Pine.uasset" 440
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 441
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 442
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 443
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 444
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 445
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 446
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Props/MaterialSphere.uasset" 447
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_Bush_D.uasset" 448
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_Bush_N.uasset" 449
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Props/Materials/M_Bush.uasset" 450
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Props/SM_Bush.uasset" 451
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_Chair_M.uasset" 452
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_Chair_N.uasset" 453
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Props/Materials/M_Chair.uasset" 454
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Props/SM_Chair.uasset" 455
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_Frame_M.uasset" 456
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_Frame_N.uasset" 457
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Props/Materials/M_Frame.uasset" 458
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Props/SM_CornerFrame.uasset" 459
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Props/SM_Couch.uasset" 460
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 461
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 462
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 463
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 464
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Props/SM_PillarFrame.uasset" 465
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Props/SM_PillarFrame300.uasset" 466
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_Shelf_M.uasset" 467
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_Shelf_N.uasset" 468
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Props/Materials/M_Shelf.uasset" 469
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Props/SM_Shelf.uasset" 470
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Props/SM_Stairs.uasset" 471
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_TableRound_M.uasset" 472
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_TableRound_N.uasset" 473
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Props/Materials/M_TableRound.uasset" 474
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Props/SM_TableRound.uasset" 475
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Props/SM_WindowFrame.uasset" 476
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Shapes/Shape_Cone.uasset" 477
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Shapes/Shape_Cube.uasset" 478
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 479
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 480
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Shapes/Shape_Pipe.uasset" 481
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 482
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 483
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Shapes/Shape_Plane.uasset" 484
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Shapes/Shape_Sphere.uasset" 485
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Shapes/Shape_Torus.uasset" 486
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Shapes/Shape_Trim.uasset" 487
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 488
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 489
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 490
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Shapes/Shape_Tube.uasset" 491
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 492
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 493
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 494
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_CobbleStone_Pebble_D_Mat.uasset" 495
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/WaterPlane/Ocean/Materials/FakedCaustics.uasset" 496
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/WaterPlane/Ocean/Textures/T_MicroWaves_N.uasset" 497
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/WaterPlane/Ocean/Textures/T_OceanFoam_01.uasset" 498
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 499
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 500
+"../../../Engine/Content/BasicShapes/Cone.uasset" 501
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 502
+"../../../Engine/Content/BasicShapes/Plane.uasset" 503
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 504
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 505
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 506
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 507
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 508
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 509
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 510
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 511
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 512
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 513
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 514
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 515
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 516
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 517
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 518
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 519
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 520
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 521
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 522
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 523
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 524
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 525
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 526
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 527
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 528
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 529
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 530
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 531
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 532
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 533
+"../../../Engine/Content/EditorResources/S_Note.uasset" 534
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 535
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 536
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 537
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 538
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 539
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 540
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 541
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 542
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 543
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 544
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 545
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 546
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 547
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 548
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 549
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 550
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 551
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 552
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 553
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 554
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 555
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 556
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 557
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 558
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 559
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 560
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 561
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 562
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 563
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 564
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 565
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 566
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 567
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 568
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 569
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 570
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 571
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 572
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 573
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 574
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 575
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 576
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 577
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 578
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 579
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 580
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 581
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 582
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 583
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 584
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 585
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 586
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 587
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 588
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 589
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 590
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 591
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 592
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 593
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 594
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 595
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 596
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 597
+"../../../Engine/Content/EngineResources/Black.uasset" 598
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 599
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 600
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 601
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 602
+"../../../Engine/Content/EngineSounds/Master.uasset" 603
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 604
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 605
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 606
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 607
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 608
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 609
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 610
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 611
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 612
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 613
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 614
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 615
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 616
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 617
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 618
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 619
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 620
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 621
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 622
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 623
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 624
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 625
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 626
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 627
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 628
+"../../../Engine/Content/Tutorial/Basics/ContentBrowserOverview.uasset" 629
+"../../../Engine/Content/Tutorial/Basics/FeaturePacks.uasset" 630
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 631
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 632
+"../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 633
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/CameraActor_64x.uasset" 634
+"../../../Engine/Content/Tutorial/Basics/ViewportsTutorial.uasset" 635
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 636
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset" 637
+"../../../Engine/Content/Tutorial/Code/AddingCode.uasset" 638
+"../../../Engine/Content/Tutorial/Landscape/TutorialAssets/Landscape.uasset" 639
+"../../../Engine/Content/Tutorial/Landscape/LandscapeWalkThrough.uasset" 640
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Manage_Mode.uasset" 641
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Painting_Mode.uasset" 642
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Sculpt_Mode.uasset" 643
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 644
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 645
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 646
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 647
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 648
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 649
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 650
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 651
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 652
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 653
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 654
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 655
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 656
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraBooleanLogicOps.uasset" 657
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraCoordinateSpace.uasset" 658
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraExpansionMode.uasset" 659
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraOrientationAxis.uasset" 660
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uasset" 661
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 662
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 663
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 664
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 665
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 666
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 667
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 668
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/AnimStarterPack/Crouch_Idle_Rifle_Ironsights.uasset" 669
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/AnimStarterPack/Equip_Pistol_Standing.uasset" 670
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/AnimStarterPack/Fire_Rifle_Ironsights.uasset" 671
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/AnimStarterPack/Hit_React_1.uasset" 672
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/AnimStarterPack/Hit_React_2.uasset" 673
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/AnimStarterPack/Hit_React_3.uasset" 674
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/AnimStarterPack/Idle_Rifle_Hip_Break1.uasset" 675
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/AnimStarterPack/Idle_Rifle_Hip_Break2.uasset" 676
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/AnimStarterPack/Reload_Rifle_Hip.uasset" 677
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 678
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 679
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 680
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 681
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 682
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 683
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 684
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 685
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 686
+"../../../Engine/Content/TemplateResources/M_Template_Master.uasset" 687
+"../../../Engine/Content/TemplateResources/MI_Template_BaseGray_03_Metal.uasset" 688
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/AnimStarterPack/Showcase.umap" 689
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Levels/ChipGame_BuiltData.uasset" 690
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 691
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 692
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 693
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 694
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Materials/M_Metal_Gold.uasset" 695
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_RockMesh_M.uasset" 696
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_RockMesh_N.uasset" 697
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Props/Materials/M_Rock.uasset" 698
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 699
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/EpicContent/Materials/M_DemoWall.uasset" 700
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/EpicContent/Physical_Materials/Rubber.uasset" 701
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/EpicContent/Materials/MI_DemoWall.uasset" 702
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/EpicContent/Materials/M_DemoWall_MattPlastic.uasset" 703
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/EpicContent/Meshes/SM_DemoRoomBackWall2.uasset" 704
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Architecture/Pillar_50x500.uasset" 705
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Architecture/Wall_400x200.uasset" 706
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Architecture/Wall_400x300.uasset" 707
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 708
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 709
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 710
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Audio/Explosion01.uasset" 711
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Props/SM_DoorFrame.uasset" 712
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Props/SM_GlassWindow.uasset" 713
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Props/SM_Rock.uasset" 714
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_Statue_M.uasset" 715
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Textures/T_Statue_N.uasset" 716
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Props/Materials/M_Statue.uasset" 717
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 718
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Props/SM_Statue.uasset" 719
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 720
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Levels/ChipGame.umap" 721
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Audio/endAudio.uasset" 722
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/Movies/End.uasset" 723
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/Movies/endScreen.uasset" 724
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/Movies/endScreen_Video.uasset" 725
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Widgets/endDialogue.uasset" 726
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Dialogue/endDialogue.uasset" 727
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Levels/endScreen.umap" 728
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/Movies/Load_Vid.uasset" 729
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/Movies/Load_MVid.uasset" 730
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/Movies/Load_MVid_Video.uasset" 731
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Widgets/LoadingUI.uasset" 732
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Dialogue/LoadingUI.uasset" 733
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Levels/Loading.umap" 734
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Levels/mainMenu_BuiltData.uasset" 735
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/ChipsGame/Levels/mainMenu.umap" 736
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Materials/M_ky_empty.uasset" 737
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Textures/T_ky_flare_a.uasset" 738
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Materials/M_ky_flare_flash.uasset" 739
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedPixelToPixelUVs.uasset" 740
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 741
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DitherTemporalAA.uasset" 742
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Textures/T_ky_stone02_2x2.uasset" 743
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Materials/M_ky_stone02.uasset" 744
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Textures/T_ky_noise4.uasset" 745
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Textures/T_ky_noise6.uasset" 746
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Materials/M_ky_stormDeco01.uasset" 747
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Materials/MI_ky_storm01_nonD.uasset" 748
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Textures/T_ky_dist_noise.uasset" 749
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Textures/T_ky_smoke_kai.uasset" 750
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Materials/M_ky_base_turbulence.uasset" 751
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Materials/MI_ky_turbulence_smoke2d_trs.uasset" 752
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Textures/T_ky_vortex04_4x4.uasset" 753
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Materials/M_ky_vortex04_4x4.uasset" 754
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Materials/MI_ky_vortex04B_4x4_two.uasset" 755
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Meshes/SM_ky_circleDist06.uasset" 756
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Meshes/SM_ky_quad_centerRot.uasset" 757
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Meshes/SM_ky_tornado07.uasset" 758
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Particles/P_ky_storm.uasset" 759
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Blueprints/BP_ky_storm.uasset" 760
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Materials/M_ky_waterDust02.uasset" 761
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Materials/MI_ky_storm01_aqua.uasset" 762
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Materials/MI_ky_storm01_aqua_nonD.uasset" 763
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Materials/MI_ky_stormDeco01_aqua.uasset" 764
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Particles/P_ky_aquaStorm.uasset" 765
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Blueprints/BP_ky_aquaStorm.uasset" 766
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Textures/T_ky_noise3.uasset" 767
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Materials/M_ky_dynDust.uasset" 768
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Textures/T_ky_smoke2.uasset" 769
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Materials/MI_ky_dynDust.uasset" 770
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Materials/MI_ky_storm01_dark.uasset" 771
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Materials/MI_ky_storm01_dark_nonD.uasset" 772
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Materials/MI_ky_stormDeco01_dark.uasset" 773
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Particles/P_ky_darkStorm.uasset" 774
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Blueprints/BP_ky_darkStorm.uasset" 775
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Materials/MI_ky_flare_flash_trs.uasset" 776
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Materials/MI_ky_storm01_fire_nonD1.uasset" 777
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Materials/MI_ky_stormDeco01_fire.uasset" 778
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Particles/P_ky_fireStorm.uasset" 779
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Blueprints/BP_ky_fireStorm.uasset" 780
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Materials/Mfunction/MF_ky_UVcontrol_4x4.uasset" 781
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Textures/T_ky_dust01_4x4.uasset" 782
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Materials/M_ky_dust01_4x4.uasset" 783
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Textures/T_ky_aura011_4x4.uasset" 784
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Materials/MI_ky_aura011_4x4.uasset" 785
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Materials/MI_ky_aura011_4x4_nonD.uasset" 786
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Textures/T_ky_noise13_sml_nor.uasset" 787
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Textures/T_ky_smoke03.uasset" 788
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Materials/M_ky_auraWall02.uasset" 789
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Materials/MI_ky_auraWall02_two.uasset" 790
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Textures/T_ky_auraWallWhite_4x4.uasset" 791
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Textures/T_ky_maskCircle.uasset" 792
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Materials/M_ky_base_anime.uasset" 793
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Textures/T_ky_circle9_4x4.uasset" 794
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Materials/MI_ky_circle9_4x4c2.uasset" 795
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Materials/M_ky_primitive_dyn2.uasset" 796
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Materials/MI_ky_primitive_dynB_nonD.uasset" 797
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/DiamondGradient.uasset" 798
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBase.uasset" 799
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBlend.uasset" 800
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Screen.uasset" 801
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Textures/T_ky_dust_longStar.uasset" 802
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Materials/M_ky_starDust.uasset" 803
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Materials/MI_ky_starDust_dis.uasset" 804
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Meshes/SM_ky_auraWall_distB_kai.uasset" 805
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Meshes/SM_ky_cylinder_lowPoly_dist.uasset" 806
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Meshes/SM_ky_cylinder_superLow.uasset" 807
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Particles/P_ky_healAura.uasset" 808
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Blueprints/BP_ky_healAura.uasset" 809
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Textures/T_ky_bg_LC.uasset" 810
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Materials/M_ky_subUV_dynRGB.uasset" 811
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Textures/T_ky_lightning02_4x4.uasset" 812
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Materials/MI_ky_lightning02_4x4.uasset" 813
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Textures/T_ky_lightningDust01_4x4.uasset" 814
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Materials/MI_ky_lightningDust01_4x4_nonD.uasset" 815
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Textures/T_ky_flareVertical02.uasset" 816
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Materials/M_ky_flare01_primitive.uasset" 817
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Textures/T_ky_shine01_4x4.uasset" 818
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Materials/MI_ky_shine01R_nonD.uasset" 819
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Particles/P_ky_lightning1.uasset" 820
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Blueprints/BP_ky_lightning1.uasset" 821
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Textures/T_ky_flare25_4x4.uasset" 822
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Materials/MI_ky_flare25_4x4.uasset" 823
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Fresnel_Function.uasset" 824
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Materials/M_ky_primitive.uasset" 825
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Materials/MI_ky_primitive2b_trs.uasset" 826
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Particles/P_ky_hit1.uasset" 827
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Blueprints/BP_ky_hit1.uasset" 828
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Textures/T_ky_deco_doom.uasset" 829
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Materials/M_ky_laser01.uasset" 830
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Materials/MI_ky_shine01R.uasset" 831
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Materials/MI_ky_starDust_sq.uasset" 832
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Particles/P_ky_laser01.uasset" 833
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Blueprints/BP_ky_laser01.uasset" 834
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Particles/P_ky_lightning2.uasset" 835
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Blueprints/BP_ky_lightning2.uasset" 836
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Materials/MI_ky_dynDust2.uasset" 837
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Particles/P_ky_lightning3.uasset" 838
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Blueprints/BP_ky_lightning3.uasset" 839
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Textures/T_ky_circle01_4x4.uasset" 840
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Materials/M_ky_circle01_4x4G_nonD.uasset" 841
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Textures/T_ky_noise.uasset" 842
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Materials/M_ky_Fresnel.uasset" 843
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Textures/T_ky_magicCircle020.uasset" 844
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Materials/M_ky_magicCircle020.uasset" 845
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Textures/T_ky_chantDecoC.uasset" 846
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Materials/M_ky_chantDecoA.uasset" 847
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Materials/MI_ky_chantDecoAc.uasset" 848
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Materials/M_ky_base.uasset" 849
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Textures/T_ky_circleDust.uasset" 850
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Materials/MI_ky_circleDust.uasset" 851
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Meshes/SM_ky_cylinderBend07.uasset" 852
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Particles/P_ky_magicCircle1.uasset" 853
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Blueprints/BP_ky_magicCircle1.uasset" 854
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Materials/M_ky_polar_primitive.uasset" 855
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Textures/T_ky_deco_rainbow.uasset" 856
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Materials/M_ky_trail_primitive.uasset" 857
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Materials/M_ky_subUV03.uasset" 858
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Textures/T_ky_flareVertical03_4x4.uasset" 859
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Materials/MI_ky_flareVertical03b_4x4.uasset" 860
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Materials/MI_ky_shine01B.uasset" 861
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Textures/T_ky_shockwave10_4x4.uasset" 862
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Materials/MI_ky_shockwave10R_4x4_nonD.uasset" 863
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Particles/P_ky_shootingStar1.uasset" 864
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Blueprints/BP_ky_shootingStar1.uasset" 865
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Textures/T_ky_smoke1.uasset" 866
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Materials/M_ky_smoke01.uasset" 867
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Materials/MI_ky_polar_two.uasset" 868
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Materials/MI_ky_primitive_dynB_two.uasset" 869
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Particles/P_ky_explosion.uasset" 870
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Particles/P_ky_fireBall.uasset" 871
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Textures/T_ky_flare3.uasset" 872
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Textures/T_ky_maskRGB5.uasset" 873
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Materials/M_ky_flarePillar.uasset" 874
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Textures/T_ky_flareVert.uasset" 875
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Materials/M_ky_flareVert.uasset" 876
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Materials/M_ky_aura9.uasset" 877
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Materials/MI_ky_aura9.uasset" 878
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Materials/MI_ky_polarC_two.uasset" 879
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Meshes/SM_ky_planeBend.uasset" 880
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Meshes/SM_ky_quads.uasset" 881
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Meshes/SM_ky_windSmokeVertRot.uasset" 882
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Particles/P_ky_shotShockwave.uasset" 883
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Blueprints/BP_ky_fireBall.uasset" 884
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Blueprints/BP_ky_shotSpawn.uasset" 885
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Materials/MI_ky_smoke01.uasset" 886
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Materials/MI_ky_smoke01b.uasset" 887
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Particles/P_ky_thunderBall.uasset" 888
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Particles/P_ky_ThunderBallHit.uasset" 889
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Blueprints/BP_ky_thunderBall.uasset" 890
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Blueprints/BP_ky_ThunderBallHit.uasset" 891
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Materials/M_ky_thunderForBeam.uasset" 892
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Textures/T_ky_shockWave03_4x4.uasset" 893
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Materials/M_ky_shockWave03_4x4.uasset" 894
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Materials/MI_ky_shockWave03g_4x4.uasset" 895
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Materials/MI_ky_storm01_thunder.uasset" 896
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Materials/MI_ky_storm01_thunder_nonD.uasset" 897
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Particles/P_ky_thunderStorm.uasset" 898
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Blueprints/BP_ky_thunderStorm.uasset" 899
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Materials/MI_ky_smoke01c.uasset" 900
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Particles/P_ky_waterBall.uasset" 901
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Particles/P_ky_waterBallHit.uasset" 902
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Blueprints/BP_ky_waterBall.uasset" 903
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Blueprints/BP_ky_waterBallHit.uasset" 904
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/EpicContent/Materials/M_DefaultTextMaterialTranslucentUnlit.uasset" 905
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/EpicContent/Physical_Materials/Metal.uasset" 906
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/EpicContent/Materials/MI_DemoWall3.uasset" 907
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/EpicContent/Materials/M_DemoWall_Inst_NamePlate.uasset" 908
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/EpicContent/Materials/MI_DemoWall_Inst_BaseFloor.uasset" 909
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.uasset" 910
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/EpicContent/Materials/MI_DemoWall2.uasset" 911
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/EpicContent/Meshes/SM_Base.uasset" 912
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/EpicContent/Meshes/SM_Base2.uasset" 913
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/EpicContent/Meshes/SM_Base_FlatWall.uasset" 914
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/EpicContent/Meshes/SM_BaseRoom.uasset" 915
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/EpicContent/Meshes/SM_NamePlate.uasset" 916
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay.uasset" 917
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/EpicContent/Textures/T_UnrealEngineDecal.uasset" 918
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/EpicContent/Materials/M_Glass.uasset" 919
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/EpicContent/Textures/T_Pattern_M.uasset" 920
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/EpicContent/Materials/M_DemoWallPattern.uasset" 921
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/EpicContent/Materials/MI_DemoWallPattern.uasset" 922
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/EpicContent/Materials/M_DemoWallPattern_Inst_Mirrored.uasset" 923
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/EpicContent/Materials/M_DemoWallPattern_NoText.uasset" 924
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/EpicContent/Textures/T_RoomTiles_M.uasset" 925
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/EpicContent/Textures/T_RoomTiles_N.uasset" 926
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/EpicContent/Materials/M_DemoRoomTiles.uasset" 927
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/EpicContent/Physical_Materials/Concrete.uasset" 928
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/EpicContent/Materials/MI_DemoRoomTiles.uasset" 929
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/EpicContent/Materials/MI_Glass.uasset" 930
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/EpicContent/Blueprints/BP_DemoRoom_Enum.uasset" 931
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/EpicContent/Meshes/SM_DemoDivider1.uasset" 932
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/EpicContent/Meshes/SM_DemoDivider2.uasset" 933
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/EpicContent/Meshes/SM_DemoRoomBackWall.uasset" 934
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/EpicContent/Materials/M_LightTube.uasset" 935
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/EpicContent/Materials/MI_LightTube.uasset" 936
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/EpicContent/Meshes/SM_DemoRoomClamp.uasset" 937
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/EpicContent/Meshes/SM_DemoRoomClamp2.uasset" 938
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/EpicContent/Meshes/SM_DemoRoomL.uasset" 939
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/EpicContent/Meshes/SM_DemoRoomLTrim.uasset" 940
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/EpicContent/Meshes/SM_DemoRoomTrim.uasset" 941
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/EpicContent/Meshes/SM_DemoRoomTrim2.uasset" 942
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/EpicContent/Meshes/SM_DemoRoomTrimAdd.uasset" 943
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/EpicContent/Meshes/SM_DemoRoomU.uasset" 944
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/EpicContent/Meshes/SM_DemoRoomU2.uasset" 945
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/EpicContent/Meshes/SM_DemoRoomU_Hole.uasset" 946
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/EpicContent/Meshes/SM_URoom_Wall.uasset" 947
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/EpicContent/Meshes/SM_URoom_Wall2.uasset" 948
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/EpicContent/Blueprints/BP_DemoRoom.uasset" 949
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 950
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/FXVarietyPack/Map/Overview.umap" 951
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/WaterPlane/Lake/Textures/T_MediumWaves_H.uasset" 952
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/WaterPlane/Lake/Textures/T_MediumWaves_N.uasset" 953
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/WaterPlane/Lake/Materials/M_LakeWater_01.uasset" 954
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/WaterPlane/Lake/Materials/M_LakeWater_01_Inst.uasset" 955
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/WaterPlane/Lake/Blueprint/BP_LakeWater.uasset" 956
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/WaterPlane/Environment/Textures/T_Detail_Rocky_N.uasset" 957
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/WaterPlane/Environment/Textures/T_Rock_Basalt_D.uasset" 958
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/WaterPlane/Environment/Textures/T_RockMesh_M.uasset" 959
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/WaterPlane/Environment/Textures/T_RockMesh_N.uasset" 960
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/WaterPlane/Environment/Props/Materials/M_Rock.uasset" 961
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/WaterPlane/Environment/Props/SM_Rock.uasset" 962
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/WaterPlane/Maps/LakeWater_Example.umap" 963
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/WaterPlane/Ocean/Blueprint/BP_OceanWater.uasset" 964
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/WaterPlane/Maps/OceanWater_Example.umap" 965
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/WaterPlane/Environment/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 966
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/WaterPlane/Translucent/Materials/M_TranslucentWater.uasset" 967
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/WaterPlane/Translucent/Materials/M_TranslucentWater_Inst.uasset" 968
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/WaterPlane/Translucent/Blueprint/BP_TranslucentWater.uasset" 969
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/WaterPlane/Environment/Textures/T_MacroVariation.uasset" 970
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/WaterPlane/Environment/Textures/T_Perlin_Noise_M.uasset" 971
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/WaterPlane/Environment/Textures/T_Rock_Basalt_N.uasset" 972
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/WaterPlane/Environment/Materials/M_Rock_Basalt.uasset" 973
+"C:/Users/Moses C/Desktop/Project/COMP313_A1/Content/WaterPlane/Maps/TranslucentWater_Example.umap" 974
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 975
+"../../../Engine/Content/Maps/Entry.umap" 976
