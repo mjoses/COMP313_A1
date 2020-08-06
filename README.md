@@ -11,6 +11,3 @@ Game Title - Chips Game in 3rd Person
 
 Link to video showing the prototype/game ( approx. 4-9 mins )
 
-
-
-Developed with Unreal Engine 4
