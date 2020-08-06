@@ -1,8 +1,11 @@
 # COMP313_A1
 
 Course code - COMP313
+
 Name - Moses Caramto
+
 Assignment number - 1
+
 Game Title - Chips Game in 3rd Person
 
 
